@@ -4,7 +4,7 @@ Full Stack Dev. Eloquent in JavaScript/TypeScript. I work comfortably with Elixi
 
 ***
 
-📊 Monthly development breakdown (updated every 8 hours)
+##### 📊 Monthly development breakdown (updated every 8 hours)
 
 <!--START_SECTION:waka-->
 
