@@ -9,13 +9,13 @@ Full Stack Dev. Eloquent in JavaScript/TypeScript. I work comfortably with Elixi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2023 - To: 13 January 2024
+From: 15 December 2023 - To: 14 January 2024
 
-TypeScript     11 hrs          ████████████▓░░░░░░░░░░░░   50.78 %
-YAML           3 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-JSON           3 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-C#             2 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-Vue.js         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+TypeScript     8 hrs 45 mins   ███████████▓░░░░░░░░░░░░░   46.37 %
+YAML           3 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+JSON           3 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+C#             2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+Vue.js         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
