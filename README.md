@@ -9,7 +9,7 @@ Full Stack Dev. Eloquent in JavaScript/TypeScript. I work comfortably with Elixi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 31 December 2024
+From: 02 December 2024 - To: 01 January 2025
 
 TypeScript   22 hrs 4 mins   ███████████████████▓░░░░░   78.01 %
 Terraform    2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
