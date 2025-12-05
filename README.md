@@ -9,13 +9,13 @@ Full Stack Dev. Eloquent in JavaScript/TypeScript. I work comfortably with Elixi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2025 - To: 04 December 2025
+From: 05 November 2025 - To: 05 December 2025
 
-TypeScript   18 hrs 39 mins  ████████████████████▒░░░░   81.32 %
-Terraform    2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-JavaScript   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Markdown     33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-YAML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+TypeScript   20 hrs 23 mins  █████████████████████░░░░   83.88 %
+Terraform    2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+JavaScript   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+YAML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+CSV          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
