@@ -9,13 +9,13 @@ Full Stack Dev. Eloquent in JavaScript/TypeScript. I work comfortably with Elixi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 11 February 2026
+From: 13 January 2026 - To: 12 February 2026
 
-TypeScript   58 hrs 56 mins  ███████████████████▒░░░░░   77.32 %
-SQL          4 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-JavaScript   3 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Bash         2 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-YAML         1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+TypeScript   56 hrs 18 mins  ███████████████████▒░░░░░   76.80 %
+SQL          4 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+JavaScript   4 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Bash         2 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Other        1 hr 15 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
