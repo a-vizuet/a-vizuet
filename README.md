@@ -9,13 +9,13 @@ Full Stack Dev. Eloquent in JavaScript/TypeScript. I work comfortably with Elixi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2026 - To: 23 November 2026
+From: 25 October 2026 - To: 24 November 2026
 
-Markdown   55 hrs 16 mins        ███████████████████████░░   92.13 %
-Other      3 hrs 50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-JSON       32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Text       12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-conf       8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Markdown   58 hrs 5 mins         ██████████████████████▒░░   88.77 %
+Other      6 hrs 28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+JSON       32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Text       12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+conf       8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
